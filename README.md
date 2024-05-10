@@ -1,0 +1,2 @@
+# HelpChaBot
+Ajuda em emergências
